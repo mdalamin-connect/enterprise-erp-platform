@@ -214,7 +214,7 @@ php artisan serve
 http://127.0.0.1:8000
 ```
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mdalamin-connect/">
@@ -225,14 +225,14 @@ http://127.0.0.1:8000
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
+---
 
-
-# 👨‍💻 Author
+## 👨‍💻 Author
 <h4>MUHAMMAD AL-AMIN</h4>
 Backend / Full-stack Developer | Laravel | Enterprise Systems
 
-
-
+---
+<br>
 
 📄 License
 This project is open-source and licensed under the MIT License.

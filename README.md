@@ -225,11 +225,11 @@ http://127.0.0.1:8000
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
----
+
 
 ## 👨‍💻 Author
 <h4>MUHAMMAD AL-AMIN</h4>
-Backend / Full-stack Developer | Laravel | Enterprise Systems
+Backend / Full-stack Developer | PHP & Laravel | Enterprise Systems
 
 
 <br>
